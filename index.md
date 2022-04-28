@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## russian warship go fuck yourself
 
 You can use the [editor on GitHub](https://github.com/AlexAmanitas/coursera-test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
